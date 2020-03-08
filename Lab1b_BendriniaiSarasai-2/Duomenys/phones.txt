@@ -1,0 +1,9 @@
+6 plus;iPhone;2016;64
+105;Nokia;2016;16
+Mini 1;Pelitt;2014;10
+MATE 1;Pelitt;2015;8
+Mini 1 orange;Pelitt;2014;8
+Mini 1;Pelitt;2014;10
+Mini 1;Pelitt;2014;10
+Mini 1 orange;Pelitt;2014;8
+naujas modelis;gera firma;2019;128
